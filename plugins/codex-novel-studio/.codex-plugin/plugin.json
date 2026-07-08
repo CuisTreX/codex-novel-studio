@@ -1,0 +1,20 @@
+{
+  "name": "codex-novel-studio",
+  "version": "0.1.0",
+  "description": "Codex Novel Studio plugin",
+  "author": {
+    "name": "Codex Novel Studio"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Novel Studio",
+    "shortDescription": "Use Codex Novel Studio in Codex.",
+    "longDescription": "Codex Novel Studio adds a local Codex plugin scaffold.",
+    "developerName": "Codex Novel Studio",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Help me use Codex Novel Studio."
+    ]
+  }
+}
