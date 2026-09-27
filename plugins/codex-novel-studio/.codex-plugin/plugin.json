@@ -1,6 +1,6 @@
 {
   "name": "codex-novel-studio",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260820133407",
   "description": "Codex Novel Studio plugin",
   "author": {
     "name": "Codex Novel Studio"
@@ -14,7 +14,7 @@
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Help me use Codex Novel Studio."
+      "\u6211\u60f3\u7528 Codex Novel Studio \u5f00\u59cb\u4e00\u90e8\u65b0\u5c0f\u8bf4\uff0c\u8bf7\u5148\u5c55\u793a\u521b\u4f5c\u9700\u6c42\u6a21\u677f\u5e76\u5f15\u5bfc\u6211\u586b\u5199\u3002"
     ]
   }
 }
